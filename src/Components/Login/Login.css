@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css?family=Poppons:400,500,600,700&display=swap');
+
+.app-wrapper{
+    color: black;
+    margin-left: 460px;
+    margin-right: 100px;
+    background-color: white;
+    padding-left: 25px;
+    padding-right: 25px;
+    min-height: 10vh;
+    align-items: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 25px;
+    align-content: center;
+    justify-content: center;
+    padding-top: 0px;
+    position: relative;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+.container{
+    background-image: url("Background.jpg");
+    background-attachment: fixed;
+    display: flex;
+    background-size: cover;
+    min-height: 50vh;
+}
+
+
+input{
+    border-radius: 6px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    width: 350px;
+    height: 40px;
+    align-items: center;
+    font-size: 17px;
+    padding: 0 15px;
+    font-weight: 400;
+    color: #333;
+    outline: none;
+    border:1.5px solid #c7bebe;
+    border-bottom-width: 2.5px;
+    transition: all 0.3s ease;
+}
+
+h2{
+    color: black;
+    font-weight: 20;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20;
+}
+
+button{
+    background: #4070f4;
+    letter-spacing: 1px;
+    border: none;
+    cursor: pointer;
+    width: 350px;
+    height: 40px;
+    border-radius: 10px;
+    margin-left: 100px;
+    margin-top: 10px;
+    position: centre;
+    top: 70%;
+    left: 60%;
+    font-size: large;
+    color: white;
+}
+
+button input:hover{
+    background: #0e4bf1;
+}
+
+h1{
+    margin-left: 10%;
+}
+
+.Images-gridItem{
+    margin-top: 8%;
+    margin-left: 10%;
+}
+.label{
+    margin-left: 50%;
+    font-size: 17px
+}
+h9{
+    font-size: large;
+    color: #0e4bf1;
+    
+}

@@ -1,0 +1,40 @@
+.app-Wrapper{
+    color: rgb(34, 33, 33);
+    display: flex;
+    flex-direction: row;
+}
+
+.button{
+    color: black;
+    margin-right: 100%;
+    width: 10%;
+}
+
+.Rightside{
+    margin-top: 1%;
+    margin-left: 20%;
+}
+
+.Details{
+    display: flex;
+    flex-direction: row;
+}
+
+.Description{
+    margin-left: 4%;
+}
+
+.Total{
+    display: flex;
+    flex-direction: row;
+}
+
+.Amount{
+    float: right;
+    margin-left: 10%;
+}
+
+.Leftside{
+    padding-left: 5%;
+}
+
